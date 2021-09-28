@@ -143,7 +143,7 @@ footer{
      margin:80px;
 }
 .jb{
-    margin-top: 335px;
+    bottom: 0;
     position: fixed;
     background-color: #353635;
     height: 55px;
